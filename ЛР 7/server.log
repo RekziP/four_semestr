@@ -1,0 +1,21 @@
+2024-05-13 19:44:43 - start_server - INFO - start_server: 16 - Сервер запущен и ожидает подключений...
+2024-05-13 19:46:06 - start_server - INFO - start_server: 18 - Accept connection
+2024-05-13 19:46:11 - start_server - INFO - start_server: 23 - b'hi'
+2024-05-13 19:46:14 - start_server - INFO - start_server: 23 - b'hello'
+2024-05-13 19:46:18 - start_server - INFO - start_server: 23 - b''
+2024-05-13 19:46:18 - start_server - INFO - start_server: 29 - Close client connection
+2024-05-13 19:46:18 - start_server - INFO - start_server: 16 - Сервер запущен и ожидает подключений...
+2024-05-13 20:07:29 - start_server - INFO - start_server: 31 - Close server connection
+2024-05-13 20:07:32 - start_server - INFO - start_server: 16 - Сервер запущен и ожидает подключений...
+2024-05-13 20:07:41 - start_server - INFO - start_server: 18 - Accept connection, client adress: ('127.0.0.1', 51518)
+2024-05-13 20:07:47 - start_server - INFO - start_server: 23 - b'hoh'
+2024-05-13 20:07:50 - start_server - INFO - start_server: 23 - b''
+2024-05-13 20:07:50 - start_server - INFO - start_server: 29 - Close client connection
+2024-05-13 20:07:50 - start_server - INFO - start_server: 16 - Сервер запущен и ожидает подключений...
+2024-05-13 20:07:56 - start_server - INFO - start_server: 31 - Close server connection
+2024-05-13 20:17:14 - start_server - INFO - start_server: 17 - Сервер запущен и ожидает подключений...
+2024-05-13 20:17:20 - start_server - INFO - start_server: 19 - Accept connection, client adress: ('127.0.0.1', 51739)
+2024-05-13 20:17:28 - start_server - INFO - start_server: 24 - b'hoh'
+2024-05-13 20:17:35 - start_server - INFO - start_server: 24 - b'shutdown'
+2024-05-13 20:17:35 - start_server - INFO - start_server: 34 - Close client connection
+2024-05-13 20:17:35 - start_server - INFO - start_server: 36 - Server stopped

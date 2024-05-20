@@ -1,0 +1,17 @@
+2024-05-13 20:52:18 - start_thread_server - INFO - start_server: 37 - Сервер запущен и ожидает подключений...
+2024-05-13 20:53:49 - start_thread_server - INFO - start_server: 39 - Accept connection, client adress: ('127.0.0.1', 52699)
+2024-05-13 20:53:49 - start_thread_server - INFO - start_server: 37 - Сервер запущен и ожидает подключений...
+2024-05-13 20:53:58 - start_thread_server - INFO - handle_client: 10 - b'hello'
+2024-05-13 20:54:36 - start_thread_server - INFO - start_server: 39 - Accept connection, client adress: ('127.0.0.1', 52762)
+2024-05-13 20:54:36 - start_thread_server - INFO - start_server: 37 - Сервер запущен и ожидает подключений...
+2024-05-13 20:54:44 - start_thread_server - INFO - handle_client: 10 - b'hello'
+2024-05-13 20:54:50 - start_thread_server - INFO - handle_client: 10 - b'hellooo'
+2024-05-13 20:54:59 - start_thread_server - INFO - handle_client: 10 - b'good bye'
+2024-05-13 20:55:05 - start_thread_server - INFO - handle_client: 10 - b''
+2024-05-13 20:55:05 - start_thread_server - INFO - handle_client: 20 - Close client connection
+2024-05-13 20:55:14 - start_thread_server - INFO - handle_client: 10 - b'forf'
+2024-05-13 20:55:23 - start_thread_server - INFO - handle_client: 10 - b'bye'
+2024-05-13 20:55:27 - start_thread_server - INFO - handle_client: 10 - b'shutdown'
+2024-05-13 20:55:27 - start_thread_server - INFO - handle_client: 20 - Close client connection
+2024-05-13 20:55:27 - start_thread_server - INFO - handle_client: 22 - Server stopped
+2024-05-13 20:56:12 - start_thread_server - INFO - start_server: 43 - Close server connection
